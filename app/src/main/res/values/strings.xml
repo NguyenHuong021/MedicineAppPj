@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">UI</string>
+    <string name="buttonCamera">Camera</string>
+    <string name="buttonGallery">Gallery</string>
+    <string name="text">App nhận diện nhãn thuốc</string>
+
+</resources>
